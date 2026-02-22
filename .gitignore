@@ -21,6 +21,7 @@ Assets/AssetStoreTools*
 *.mdb
 *.opendb
 *.VC.db
+*.meta
 
 # Visual Studio / Rider
 .vs/
